@@ -1,1 +1,1 @@
-Hello there, bwe are getting Fancier
+Hello there, we are getting Fancier
